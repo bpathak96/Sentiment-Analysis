@@ -1,3 +1,5 @@
+GitHub renders HTML files, but they can only be previewed if raw links are opened via a viewer like HTML Preview. So if you are unable to access the HTML files use the preview links shared below.
+
 ## Interactive Notebooks
 - [Preprocessing](https://htmlpreview.github.io/?https://raw.githubusercontent.com/yourusername/sentiment-analysis-next-plc/main/notebooks/1_preprocessing.html)
 - [TextCNN Creation](https://htmlpreview.github.io/?https://raw.githubusercontent.com/yourusername/sentiment-analysis-next-plc/main/notebooks/2_textCNN_creation.html)
