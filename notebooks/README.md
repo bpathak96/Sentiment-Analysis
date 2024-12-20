@@ -2,6 +2,6 @@ GitHub renders HTML files, but they can only be previewed if raw links are opene
 
 ## Interactive Notebooks
 - [Preprocessing](https://htmlpreview.github.io/?https://raw.githubusercontent.com/bpathak96/Sentiment-Analysis/refs/heads/main/notebooks/Preprocessing.html)
-- [TextCNN Creation](https://htmlpreview.github.io/?https://raw.githubusercontent.com/bpathak96/Sentiment-Analysis/refs/heads/main/notebooks/TextCNN%20Creation.html)
+- [TextCNN Creation](https://rawcdn.githack.com/bpathak96/Sentiment-Analysis/df5136676e1a3fb8ec83a95878032be8aa7ed04b/notebooks/TextCNN%20Creation.html)
 - [TextCNN Fine-Tuning](https://htmlpreview.github.io/?https://raw.githubusercontent.com/yourusername/sentiment-analysis-next-plc/main/notebooks/3_finetuning_textCNN.html)
 - [Evaluation and Visualization](https://htmlpreview.github.io/?https://raw.githubusercontent.com/yourusername/sentiment-analysis-next-plc/main/notebooks/4_evaluation_and_visualization.html)
