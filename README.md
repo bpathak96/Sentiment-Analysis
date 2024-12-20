@@ -1,4 +1,4 @@
-# Sentiment Analysis for NEXT plc
+# Sentiment Analysis using Deep Learning
 
 ## Project Overview
 This project leverages Natural Language Processing (NLP) and deep learning to analyze customer feedback for NEXT plc. Using TextCNN, the framework identifies sentiment at the aspect level, offering actionable insights to enhance business strategies and customer satisfaction. With over 700,000 textual comments analyzed, this work highlights the potential of sentiment analysis to improve customer experience and operational efficiency.
